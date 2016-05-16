@@ -1,6 +1,6 @@
-# canvasMatrix
+# Matrix digital rain
 
-模仿电影《黑客帝国》的代码雨效果，使用canvas实现。
+模仿电影《黑客帝国》的代码雨效果(Matrix digital rain)，使用canvas实现。
 
 [Demo -- 演示页面](http://unclehking.github.io/canvasMatrix/)
 
