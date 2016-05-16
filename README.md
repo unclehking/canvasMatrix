@@ -5,7 +5,7 @@
 [Demo -- 演示页面](http://unclehking.github.io/canvasMatrix/)
 
 截图： <br />
-![github](http://unclehking.github.io/canvasMatrix/screenshot.jpg "github")  
+![github](http://unclehking.github.io/canvasMatrix/screenshot.png "github")  
 
 html:
 ```java  
