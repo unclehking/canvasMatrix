@@ -5,11 +5,11 @@
 [Demo -- 演示页面](http://unclehking.github.io/canvasMatrix/)
 
 html:
-、、java
+、、、java
 <canvas id="c" ></canvas>
-、、
+、、、
 javascript:
-、、java
+、、、java
 	var matrix = {
 		target : null,
 		cTarget : null,
@@ -51,4 +51,4 @@ javascript:
 	};
 
 	matrix.init(document.getElementById("c"));
-、、
+、、、
